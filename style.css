@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.flexible_container{
+    display: flex;
+    padding-left: 5%;
+}
+.half_width{
+    width: 50%;
+    float: left;
+}
+.top_area{
+padding-left: 5%;
+padding-bottom: 150px;
+}
+.top_left{
+    padding-top: 8%;
+}
+.top_left h1{
+font-size: 90px;
+}
+.top_left h1 span{
+color: orange;
+}
+.top_left p{
+font-size: 30px;
+color: dimgray;
+padding-bottom: 40px;
+}
+.button{
+text-decoration: none;
+color: white;
+font-size: 25px;
+background-image: linear-gradient(tomato, orange);
+padding: 20px 40px;
+border-radius: 35px;
+}
+.top_area .top_right{
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.about_area{
+background-image: url(images/shape/Frame\ 57.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+padding-bottom: 150px;
+padding-top: 100px;
+}
+.about_area .about_left{
+margin-left: 2%;
+}
+.about_area .about_right{
+width: 550px;
+}
+.about_area .about_right h2{
+font-size: 40px;
+color: dimgray;
+}
+.about_area .about_right p{
+font-size: 20px;
+line-height: 1.7;
+padding-bottom: 65px;
+}
+.about_area .about_right a{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
