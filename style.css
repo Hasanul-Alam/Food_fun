@@ -62,8 +62,52 @@ font-size: 20px;
 line-height: 1.7;
 padding-bottom: 65px;
 }
-.about_area .about_right a{
+.my_recipies{
 
+}
+.my_recipies_top{
+text-align: center;
+margin-left: 25%;
+margin-right: 25%;
+
+}
+.my_recipies_top h2{
+font-size: 40px;
+color: dimgray;
+}
+.my_recipies_top p{
+font-size: 20px;
+}
+.recipies{
+    padding-top: 100px;
+    width: 1530px;
+    margin: 0 auto;
+}
+.recipie_item{
+    width: 350px;
+    height: 550px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px gray;
+    float: left;
+    margin: 0 50px;
+}
+.recipie_image img{
+    width: 100%;
+    border-radius: 10px;
+}
+.recipie_des{
+    margin-top: 75px;
+}
+.recipie_des h2{
+font-weight: bold;
+font-size: 35px;
+}
+.recipie_des p{
+    font-size: 20px;
+    color: dimgray;
+    line-height: 1.5;
 }
 
 
